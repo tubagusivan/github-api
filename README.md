@@ -2,6 +2,37 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# github-api
+
+This is a React Dashboard App.
+
+## Get it up and running
+
+- Clone this repository.
+
+``` bash
+$ https://github.com/tubagusivan/github-api.git
+```
+
+- Switch to the cloned directory.
+
+``` bash
+$ cd github-api
+```
+
+- Start the stack.
+
+``` bash
+$ npm install
+```
+
+``` bash
+$ npm start
+```
+
+- Visit `localhost:3000` in browser.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
